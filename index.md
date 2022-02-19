@@ -4,6 +4,7 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.myloglink }}) ---
+[LINKS]({{site.mylink}}) ---
 [REPO]({{ site.githublink }})
 <br>
 <hr>

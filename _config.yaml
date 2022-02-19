@@ -1,9 +1,10 @@
-version:     "0001--10-Feb-2022"
+version:     "0002--19-Feb-2022"
 copyright:   "2022"
 author:      "Dzulandra Perkasa"
 title:       "OS221: Operating Systems 2022-1"
 githublink:  "https://github.com/dzulandra/os221/"
 myloglink:   "TXT/mylog.txt"
+mylink:      "links.md"
 encoding:    UTF-8
 markdown:    kramdown
 input:       GFM
