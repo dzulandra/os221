@@ -4,7 +4,6 @@ author:      "Dzulandra Perkasa"
 title:       "OS221: Operating Systems 2022-1"
 githublink:  "https://github.com/dzulandra/os221/"
 myloglink:   "TXT/mylog.txt"
-mylink:      "links.md"
 encoding:    UTF-8
 markdown:    kramdown
 input:       GFM
