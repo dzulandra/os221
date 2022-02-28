@@ -9,5 +9,16 @@ permalink: /LINKS/
 [REPO]({{ site.githublink }})
 <br>
 <hr>
+WEEK 01
+<hr>
 1. [Bash Scripting]({{https://www.youtube.com/watch?v=e7BufAVwDiM}})\
-Link ini merupakan 3 hours full course bash scripting yang cukup baik untuk pemula dan juga bash scripting merupakan hal yang penting untuk di course os ini
+Link ini merupakan 3 hours full course bash scripting yang cukup baik untuk pemula dan juga bash scripting merupakan hal yang penting untuk dimengerti di course os ini
+<hr>
+WEEK 02
+<hr>
+1. [ZOOM meeting ]({{https://zoom.us/j/99547756705}})<br>
+Link ini merupkana link zoom meeting just in case terdapat problem di scele<br>
+2. [Cryptography full course]({{https://www.youtube.com/watch?v=oZfDp3SvrOY}})<br>
+Link ini merupakan link untuk mempelajari full cryptography <br>
+3. [shell script cheat sheet]({{https://devhints.io/bash}})<br>
+Link ini merupakan link cheat sheet shell scripting
