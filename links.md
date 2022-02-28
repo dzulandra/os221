@@ -16,9 +16,9 @@ Link ini merupakan 3 hours full course bash scripting yang cukup baik untuk pemu
 <hr>
 WEEK 02
 <hr>
-1. [ZOOM meeting ]({{https://zoom.us/j/99547756705}})<br>
-Link ini merupkana link zoom meeting just in case terdapat problem di scele<br>
-2. [Cryptography full course]({{https://www.youtube.com/watch?v=oZfDp3SvrOY}})<br>
-Link ini merupakan link untuk mempelajari full cryptography <br>
-3. [shell script cheat sheet]({{https://devhints.io/bash}})<br>
-Link ini merupakan link cheat sheet shell scripting
+1. [ZOOM meeting](https://zoom.us/j/99547756705)\
+Link ini merupkan link zoom meeting just in case terdapat problem di scele.
+2. [Cryptography full course](https://www.youtube.com/watch?v=oZfDp3SvrOY)\
+Link ini merupakan link untuk mempelajari full cryptography.
+3. [shell script cheat sheet](https://devhints.io/bash)\
+Link ini merupakan link cheat sheet shell scripting.
