@@ -11,7 +11,7 @@ permalink: /LINKS/
 <hr>
 WEEK 01
 <hr>
-1. [Bash Scripting]({{https://www.youtube.com/watch?v=e7BufAVwDiM}})\
+1. [Bash Scripting](https://www.youtube.com/watch?v=e7BufAVwDiM)\
 Link ini merupakan 3 hours full course bash scripting yang cukup baik untuk pemula dan juga bash scripting merupakan hal yang penting untuk dimengerti di course os ini
 <hr>
 WEEK 02
