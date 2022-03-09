@@ -22,3 +22,7 @@ Link ini merupkan link zoom meeting just in case terdapat problem di scele.
 Link ini merupakan link untuk mempelajari full cryptography.
 3. [shell script cheat sheet](https://devhints.io/bash)\
 Link ini merupakan link cheat sheet shell scripting.
+<hr>
+WEEK 03
+<hr>
+1. []
