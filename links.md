@@ -25,4 +25,5 @@ Link ini merupakan link cheat sheet shell scripting.
 <hr>
 WEEK 03
 <hr>
-1. []
+1. [Wiki debian](https://wiki.debian.org)\
+Link ini merupakan link menuju wiki debian dimana hampir semua tentang debian ada disana

@@ -27,4 +27,5 @@ ZCZC W02 30 L03 GitHub related
 ZCZC W03 180 L02 ZOOM meetings related
 ZCZC W03 90 L13 Assignment #03
 ZCZC W03 20 L05 Quiz related
-ZCZC W03 45 L06 References/Books/Documents/GSGS related
+ZCZC W03 60 L06 References/Books/Documents/GSGS related
+ZCZC W03 20 L03 GitHub related
