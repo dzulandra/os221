@@ -27,9 +27,13 @@ WEEK 03
 <hr>
 1. [Wiki debian](https://wiki.debian.org)\
 Link ini merupakan link menuju wiki debian dimana hampir semua tentang debian ada disana
+<<<<<<< HEAD
 <hr>
 WEEK 05
 <hr>
 1. [C-language course](https://www.w3schools.com/c/index.php)\
-Link ini mreupakan link course C language dari w3schools.
-2. []
+Link ini merupakan link course C language dari w3schools.
+<hr>
+WEEK 06
+<hr>
+1. []

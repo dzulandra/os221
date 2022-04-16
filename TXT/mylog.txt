@@ -42,3 +42,8 @@ ZCZC W05 40 L05 Quiz related
 ZCZC W05 60 L06 References/Books/Documents/GSGS related
 ZCZC W05 45 L26 C-language
 ZCZC W05 10 L03 GitHub related
+
+ZCZC W06 180 L02 ZOOM meetings related
+ZCZC W06 60 L16 assignment #06
+ZCZC W06 40 L05 Quiz related
+
