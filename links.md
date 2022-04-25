@@ -36,4 +36,5 @@ Link ini merupakan link course C language dari w3schools.
 <hr>
 WEEK 06
 <hr>
-1. []
+1. [Fork tutorial] (youtube.com/watch?v9seb8hddeK4)\
+Link ini merupakan link menuju video tentang penggunaan fork
