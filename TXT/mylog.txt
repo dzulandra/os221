@@ -54,3 +54,8 @@ ZCZC W07 90 L17 assignment #07
 ZCZC W07 30 L05 Quiz related
 ZCZC W07 50 L06 References/Books/Documents/GSGS related
 ZCZC W07 10 L03 GitHub related
+
+ZCZC W08 170 L02 ZOOM meetings related
+ZCZC W08 150 L18 assignment #08
+ZCZC W08 45 L05 Quiz related
+ZCZC W08 30 L16 References/Books/Documents/GSGS related
