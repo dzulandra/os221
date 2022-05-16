@@ -38,3 +38,9 @@ WEEK 06
 <hr>
 1. [Fork tutorial] (youtube.com/watch?v9seb8hddeK4)\
 Link ini merupakan link menuju video tentang penggunaan fork
+<hr>
+WEEK 09
+<hr>
+1. [LFS tutorial](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCCsisiiWrZJgnHmK18Mr7j)\
+Link ini merupakan playlist tutorial linux from scratch
+<hr>
