@@ -59,3 +59,8 @@ ZCZC W08 170 L02 ZOOM meetings related
 ZCZC W08 150 L18 assignment #08
 ZCZC W08 45 L05 Quiz related
 ZCZC W08 30 L16 References/Books/Documents/GSGS related
+
+ZCZC W09 160 L02 ZOOM meetings related
+ZCZC W09 45 L05 Quiz related
+ZCZC W09 240 L19 assignment #09
+ZCZC W09 20 L16 Referebces/Books/Documents/GSGS related
